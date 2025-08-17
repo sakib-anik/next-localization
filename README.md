@@ -37,5 +37,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 NextJS Localization
 
->npm i @formatjs/intl-localematcher
->npm i negotiator
+## >npm i @formatjs/intl-localematcher  
+## >npm i negotiator
